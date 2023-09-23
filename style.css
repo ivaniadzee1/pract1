@@ -1,0 +1,29 @@
+body{
+    background-image: url(../pract1/image/p3ayzhZ2tMvRbQyMzD31TA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.do{
+    border: solid black 2px ;
+    width: 200px;
+    height: 28px;
+    display: block;
+}
+.do{
+    margin-left: 43%;
+    margin-top: 20px;
+}
+form{
+    margin-top: 180px;
+}
+.dio{
+    margin-left: 43%;
+    margin-top: 20px;
+    height: 30px;
+    width: 90px;
+    background-color: blue;
+    color: black;
+}
+.apa{
+    color: red;
+}
